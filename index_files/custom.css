@@ -1,0 +1,22 @@
+/*============================================================================================*/
+/* Your custom styles below */
+/*============================================================================================*/
+
+
+.her-color {
+	color: #133f7c !important;
+}
+
+.parsley-required, .parsley-type {
+	color: red;
+	list-style: none;
+
+}
+
+.grecaptcha-badge{
+	visibility: collapse !important;  
+}
+
+.parsley-errors-list ul{
+	list-style-type:none;
+}
